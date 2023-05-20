@@ -1,6 +1,7 @@
 .pokemon {
     display: inline-block;
     text-align: center;
+    background-color: antiquewhite;
 }
 .pokemon img {
     display: block;
